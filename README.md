@@ -16,20 +16,20 @@
 
 <br>
 
-<h3 align="left">Minhas Redes:</h3>
+<h3 align="left"><b>Minhas Redes:</b></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="João Vitor Ferreti Lippi" height="50" width="60" /></a>
+      alt="João Vitor Ferreti Lippi" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100085122187248" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="João Vitor Fererti Lippi" height="50" width="60" /></a>
+      alt="João Vitor Fererti Lippi" height="30" width="40" /></a>
   <a href="https://www.instagram.com/joaovitor_lippi/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="joaovitor_lippi" height="50" width="60" /></a>
+      alt="joaovitor_lippi" height="30" width="40" /></a>
  <a href="https://twitter.com/ferreti_lippi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ferreti_lippi" height="50" width="60" /></a>
+      alt="ferreti_lippi" height="30" width="40" /></a>
 </p>
 
 <br>
