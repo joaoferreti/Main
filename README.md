@@ -3,19 +3,16 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views : 289-</h3> </> 
-  </p>
-
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Estou em constante aprendizado, em especial, sobre Tecnologias, métodos e Ferramentas usadas em benefício da Gestão Empresarial.
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 Como me contatar: **joaoferretilippi@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 🎯 **SAP ERP** - SAP S/4HANA | SAP ACTIVATE | SAP HANA |
 
 <br>
 
