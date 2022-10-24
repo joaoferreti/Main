@@ -40,8 +40,7 @@
       alt="sap" width="40" height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       alt="python" width="40" height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>" alt="python"
-      alt="Visual Studio Code" width="40" height="40" /> </a  </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg" </a  </p>
 
 <br>
 
