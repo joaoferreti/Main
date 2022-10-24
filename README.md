@@ -34,10 +34,10 @@
 
 <br>
 
-<h3 align="left">Principais Ferramentas e Linguagens:</h3>
+<h3 align="left"><b>Principais Ferramentas e Linguagens:</b></h3>
 <p align="left"> <a href="https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil" target="_blank" rel="noreferrer"> <img
       src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg"
-      alt="sap" width="80" height="80" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      alt="sap" width="90" height="90" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       alt="python" width="70" height="70" /> </a> </p>
 
