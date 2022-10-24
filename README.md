@@ -37,10 +37,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil" target="_blank" rel="noreferrer"> <img
       src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg"
-      alt="sap" width="40" height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      alt="sap" width="80" height="80" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      alt="python" width="40" height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" </a  </p>
+      alt="python" width="80" height="80" /> </a> </p>
 
 <br>
 
